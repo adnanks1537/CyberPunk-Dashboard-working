@@ -1,0 +1,29 @@
+.http-packets-container {
+    padding: 20px;
+}
+
+.http-packets-container h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.http-packets-container table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+.http-packets-container th, .http-packets-container td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+.http-packets-container th {
+    background-color: #f2f2f2;
+}
+
+.http-packets-container pre {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
